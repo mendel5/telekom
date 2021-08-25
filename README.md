@@ -1,5 +1,5 @@
 # telekom-deutschland
-Useful information about Telekom Deutschland (Telekom Germany)
+Useful information about the Telekom Deutschland (Telekom Germany)
 
 Note: This info is focused on Germany.
 
