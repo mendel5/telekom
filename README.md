@@ -18,7 +18,7 @@ Note: This info is focused on Germany.
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt/telefon
 
-## Links
+## Tarife
 ### Privatkunden
 - https://www.telekom.de/mobilfunk/tarife/smartphone-tarife
 - https://www.telekom.de/mobilfunk/tarife/zweitkarten
