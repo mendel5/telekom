@@ -10,7 +10,7 @@ Note: This info is focused on Germany.
 - Kundenservice MagentaEins Unlimited: 0800 3300 411
 
 ## Links
-- https://www.telekom.de/
+- https://www.telekom.de
 - https://www.telekom.de/kontakt
 
 ## Mein Magenta App
