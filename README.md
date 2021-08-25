@@ -32,6 +32,10 @@ Note: This info is focused on Germany.
 - https://geschaeftskunden.telekom.de/internet-dsl/tarife/festnetz-internet-dsl
 - https://geschaeftskunden.telekom.de/mobilfunk/magentaeins-business-unlimited
 
+## Einstellungen
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/komfortdienste/beschreibung
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/steuercodes
+
 ## Mein Magenta App
 - https://www.telekom.de/hilfe/meinmagenta-app
 - https://apps.apple.com/de/app/magentaservice/id407932476
