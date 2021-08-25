@@ -3,21 +3,22 @@ Useful information about the Telekom Deutschland (Telekom Germany)
 
 Note: This info is focused on Germany.
 
+## Allgemein
+- https://www.telekom.de
+
 ## Hotlines
 ### Privatkunden
+- https://www.telekom.de/kontakt
 - Bestellung: 0800 3303 000
 - Kundenservice Festnetz: 0800 3301 000
 - Kundenservice Mobilfunk: 0800 3302 202
 - Kundenservice MagentaEins Unlimited: 0800 3300 411
 
 ### Geschäftskunden
-
+- https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt
+- https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt/telefon
 
 ## Links
-### General
-- https://www.telekom.de
-- https://www.telekom.de/kontakt
-
 ### Privatkunden
 - https://www.telekom.de/mobilfunk/tarife/smartphone-tarife
 - https://www.telekom.de/mobilfunk/tarife/zweitkarten
