@@ -40,14 +40,20 @@ Note: This info is focused on Germany.
 
 ## Mein Magenta App
 - https://www.telekom.de/hilfe/meinmagenta-app
-- https://apps.apple.com/de/app/magentaservice/id407932476
 - https://play.google.com/store/apps/details?id=de.telekom.android.customercenter&hl=de
+- https://apps.apple.com/de/app/magentaservice/id407932476
 
 ## Voicemail App
 - https://www.telekom.de/unterwegs/apps-und-dienste/kommunikation/voicemail
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobilbox/voicemail-app
-- https://apps.apple.com/de/app/telekom-voicemail/id654737078
 - https://play.google.com/store/apps/details?id=de.telekom.mds.mbp&hl=de
+- https://apps.apple.com/de/app/telekom-voicemail/id654737078
 
 ## Weitere Apps
-- Test
+### Telekom Deutschland GmbH
+- https://play.google.com/store/apps/developer?id=Telekom+Deutschland+GmbH&hl=de
+- https://apps.apple.com/de/developer/telekom-deutschland-gmbh/id930125248
+
+### Deutsche Telekom AG
+- https://play.google.com/store/apps/developer?id=Deutsche+Telekom+AG&hl=de
+- https://apps.apple.com/de/developer/deutsche-telekom-ag/id310998315
