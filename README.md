@@ -33,8 +33,10 @@ Note: This info is focused on Germany.
 - https://geschaeftskunden.telekom.de/mobilfunk/magentaeins-business-unlimited
 
 ## Einstellungen
-- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/komfortdienste/beschreibung
-- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/steuercodes
+- Übersicht Komfortdienste Mobilfunknetz: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/komfortdienste/beschreibung
+- Mobilbox aktivieren / deaktivieren: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobilbox/klassische-mobilbox/mobilbox-aktivieren-oder-deaktivieren
+- Steuercodes Mobilfunk: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/steuercodes
+- Steuercodes Festnetz: https://www.telekom.de/hilfe/festnetz-internet-tv/ip-basierter-anschluss/leistungsmerkmale-mit-telefontasten-steuern
 
 ## Mein Magenta App
 - https://www.telekom.de/hilfe/meinmagenta-app
