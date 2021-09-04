@@ -57,3 +57,6 @@ Note: The content is focused on Germany.
 ### Deutsche Telekom AG
 - https://play.google.com/store/apps/developer?id=Deutsche+Telekom+AG&hl=de
 - https://apps.apple.com/de/developer/deutsche-telekom-ag/id310998315
+
+## Coverage maps
+For Coverage maps please refer to: [mendel5/internet-access#coverage-maps](https://github.com/mendel5/internet-access#coverage-maps)
