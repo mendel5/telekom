@@ -61,6 +61,11 @@ Note: The content is focused on Germany.
 ## Coverage maps
 For Coverage maps please refer to: [mendel5/internet-access#coverage-maps](https://github.com/mendel5/internet-access#coverage-maps)
 
+## Kundencenter
+Prozess zur Einbindung einer Mobilfunknummer in das Telekom-Kundencenter:
+- Faktor 1: Eingabe eines Bestätigungscodes, der per SMS oder E-Mail zugeschickt wird
+- Faktor 2: Eingabe der PUK, die auf dem Brief mit der SIM-Karte steht (erhält man bei Vertragsbeginn)
+
 ## PIN und PUK
 Die PUK kann u.a. telefonisch erfragt werden. Siehe die Rufnummer vom Kundenservice Mobilfunk oben. Für die telefonische Abfrage der PUK fallen einmalige Kosten in Höhe von 14,95 Euro an (Stand: 2021-09).
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/pin-puk-vergessen
