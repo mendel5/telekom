@@ -60,3 +60,8 @@ Note: The content is focused on Germany.
 
 ## Coverage maps
 For Coverage maps please refer to: [mendel5/internet-access#coverage-maps](https://github.com/mendel5/internet-access#coverage-maps)
+
+## PIN und PUK
+Die PUK kann u.a. telefonisch erfragt werden. Siehe die Rufnummer vom Kundenservice Mobilfunk oben. Für die telefonische Abfrage der PUK fallen einmalige Kosten in Höhe von XYZ Euro an.
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/pin-puk-vergessen
+- https://telekomhilft.telekom.de/t5/Handys-Datengeraete/PUK-anfordern/td-p/2098769
