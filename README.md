@@ -68,7 +68,8 @@ Prozess zur Einbindung einer Mobilfunknummer in das Telekom-Kundencenter:
 
 ## PIN und PUK
 Die PUK kann u.a. telefonisch erfragt werden. Siehe die Rufnummer vom Kundenservice Mobilfunk oben. Für die telefonische Abfrage der PUK fallen einmalige Kosten in Höhe von 14,95 Euro an (Stand: 2021-09).
-- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/pin-puk-vergessen
 - https://telekomhilft.telekom.de/t5/Handys-Datengeraete/PUK-anfordern/td-p/2098769
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/pin-puk-vergessen
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/telefonische-puk-auskunft
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/kosten-puk-auskunft
