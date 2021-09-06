@@ -20,12 +20,12 @@ Note: The content is focused on Germany.
 
 ## Tarife
 ### Privatkunden
-- https://www.telekom.de/mobilfunk/tarife/smartphone-tarife
-- https://www.telekom.de/mobilfunk/tarife/zweitkarten
-- https://www.telekom.de/unterwegs/tarife-und-optionen/prepaid-tarife
-- https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl
-- https://www.telekom.de/magenta-eins/vorteile
-- https://www.telekom.de/magenta-eins/magenta-eins-unlimited
+- https://www.telekom.de/mobilfunk/tarife/smartphone-tarife Mobilfunk-Haupttarife (MagentaMobil, Postpaid)
+- https://www.telekom.de/mobilfunk/tarife/zweitkarten Mobilfunk-Zweitkarten (Family Card, Postpaid)
+- https://www.telekom.de/unterwegs/tarife-und-optionen/prepaid-tarife Mobilfunk-Prepaidtarife (MagentaMobil)
+- https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl Festnetz-Tarife
+- https://www.telekom.de/magenta-eins/vorteile Magenta Eins (Festnetz- und Mobilfunk-Kombi-Vorteil)
+- https://www.telekom.de/magenta-eins/magenta-eins-unlimited Magenta Eins Unlimited (Kombinierter Vertrag aus Festnetz und Mobilfunk)
 
 Die Sparte `Festnetz` wird von der Telekom als `Zuhause` bezeichnet; die Sparte `Mobilfunk` als `Unterwegs`.
 Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine SIM mit derselben Nummer wird `Multi-SIM` genannt (Klon einer Haupt-SIM).
