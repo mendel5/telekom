@@ -27,7 +27,8 @@ Note: The content is focused on Germany.
 - https://www.telekom.de/magenta-eins/vorteile
 - https://www.telekom.de/magenta-eins/magenta-eins-unlimited
 
-Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine SIM mit derselben Nummer wird `Multi-SIM` genannt.
+Die Sparte `Festnetz` wird von der Telekom als `Zuhause` bezeichnet; die Sparte `Mobilfunk` als `Unterwegs`.
+Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine SIM mit derselben Nummer wird `Multi-SIM` genannt (Klon einer Haupt-SIM).
 
 ### Geschäftskunden
 - https://geschaeftskunden.telekom.de/mobilfunk/tarife/handytarife
@@ -75,6 +76,21 @@ PIN steht für `Personal Identification Number`. PUK steht für `Personal Unlock
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/pin-puk-vergessen
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/telefonische-puk-auskunft
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/kosten-puk-auskunft
+
+## SIM-Karten
+Es gibt drei verschiedene SIM-Karten-Formate bei der Telekom (physische SIMs; zusätzlich gibt es die digitale eSIM):
+- Klassik-SIM (2FF) 3V
+- Micro-SIM (2FF/3FF) 1,8V
+- Triple-SIM
+
+SIM-Karten-Größen allgemein (FF steht für Form Factor):
+- Mini-SIM: 25 * 15 mm (2FF)
+- Micro-SIM: 15 * 12 mm (3FF)
+- Nano-SIM: 12,8 * 8,8 mm (4FF)
+
+Sources:
+- https://www.telekom.de/unterwegs/triple-sim
+- https://en.wikipedia.org/wiki/SIM_card#Formats
 
 ## SMS-Zentrale
 Die Nummer der SMS Mitteilungszentrale lautet: `+49 171 0760 000`. Diese Nummer muss in Ihrem Handy hinterlegt sein, damit Sie SMS Kurznachrichten versenden können.
