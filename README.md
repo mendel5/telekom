@@ -27,6 +27,8 @@ Note: The content is focused on Germany.
 - https://www.telekom.de/magenta-eins/vorteile
 - https://www.telekom.de/magenta-eins/magenta-eins-unlimited
 
+Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine SIM mit derselben Nummer wird `Multi-SIM` genannt.
+
 ### Geschäftskunden
 - https://geschaeftskunden.telekom.de/mobilfunk/tarife/handytarife
 - https://geschaeftskunden.telekom.de/internet-dsl/tarife/festnetz-internet-dsl
@@ -61,11 +63,6 @@ Note: The content is focused on Germany.
 ## Coverage maps
 For Coverage maps please refer to: [mendel5/internet-access#coverage-maps](https://github.com/mendel5/internet-access#coverage-maps)
 
-## SMS-Zentrale
-Die Nummer der SMS Mitteilungszentrale lautet: `+49 171 0760 000`. Diese Nummer muss in Ihrem Handy hinterlegt sein, damit Sie SMS Kurznachrichten versenden können.
-Andere Bezeichnungen: SMS Mitteilungszentrale, SMS-Zentrale, Dienstzentrale
-- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/sms-mms/nummer-sms-mitteilungszentale
-
 ## Kundencenter
 Prozess zur Einbindung einer Mobilfunknummer in das Telekom-Kundencenter:
 - Faktor 1: Eingabe eines Bestätigungscodes, der per SMS oder E-Mail zugeschickt wird
@@ -78,3 +75,8 @@ PIN steht für `Personal Identification Number`. PUK steht für `Personal Unlock
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/pin-puk-vergessen
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/telefonische-puk-auskunft
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/sim-karte/pin-puk/kosten-puk-auskunft
+
+## SMS-Zentrale
+Die Nummer der SMS Mitteilungszentrale lautet: `+49 171 0760 000`. Diese Nummer muss in Ihrem Handy hinterlegt sein, damit Sie SMS Kurznachrichten versenden können.
+Andere Bezeichnungen: SMS Mitteilungszentrale, SMS-Zentrale, Dienstzentrale
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/sms-mms/nummer-sms-mitteilungszentale
