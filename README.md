@@ -61,6 +61,11 @@ Note: The content is focused on Germany.
 ## Coverage maps
 For Coverage maps please refer to: [mendel5/internet-access#coverage-maps](https://github.com/mendel5/internet-access#coverage-maps)
 
+## SMS-Zentrale
+Die Nummer der SMS Mitteilungszentrale lautet: `+49 171 0760 000`. Diese Nummer muss in Ihrem Handy hinterlegt sein, damit Sie SMS Kurznachrichten versenden können.
+Andere Bezeichnungen: SMS Mitteilungszentrale, SMS-Zentrale, Dienstzentrale
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/sms-mms/nummer-sms-mitteilungszentale
+
 ## Kundencenter
 Prozess zur Einbindung einer Mobilfunknummer in das Telekom-Kundencenter:
 - Faktor 1: Eingabe eines Bestätigungscodes, der per SMS oder E-Mail zugeschickt wird
