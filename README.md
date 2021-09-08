@@ -21,7 +21,7 @@ Note: The content is focused on Germany.
 ## Weitere telefonische Auskünfte
 Mobilfunk
 - Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags (KontoService mobil)
-- Nummer `4387` aus dem Mobilfunknetz: Netzabfrage der SIM-Karte
+- Nummer `4387` aus dem Mobilfunknetz: Netzabfrage der SIM-Karte (geht auch per SMS)
 
 Festnetz
 - Nummer `0310` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ferngespräche (Netzabfrage)
