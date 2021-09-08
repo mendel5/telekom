@@ -18,6 +18,13 @@ Note: The content is focused on Germany.
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt/telefon
 
+## Weitere telefonische Auskünfte
+- Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags (KontoService mobil)
+
+Quellen:
+- https://www.telekom.de/hilfe/vertrag-meine-daten/prepaid/prepaid-guthaben/guthaben-abfragen
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/kurzwahlen-sonderdienste
+
 ## Tarife
 ### Privatkunden
 - https://www.telekom.de/mobilfunk/tarife/smartphone-tarife Mobilfunk-Haupttarife (MagentaMobil, Postpaid)
