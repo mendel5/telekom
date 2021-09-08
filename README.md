@@ -35,6 +35,9 @@ Quellen:
 - https://netz-abfrage.de
 - https://praxistipps.chip.de/handynummer-provider-herausfinden_1417
 - https://telekomhilft.telekom.de/t5/Telefonie-Daten/wie-erkenne-ich-TELEKOM-Mobilfunknummer/td-p/2892159
+- https://www.teltarif.de/vergleich-mnp-qualitaet-versagen/news/79715.html
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobiles-internet-e-mail/hotspot/konfiguration-nutzen-sicherheit/sms-befehle-zur-nutzung-von-hotspot-mit-mobilfunk-zugangsdaten
+- https://www.prepaid-wiki.de/tarife/Telekom#Servicefunktionen
 
 ## Tarife
 ### Privatkunden
