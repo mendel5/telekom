@@ -20,10 +20,13 @@ Note: The content is focused on Germany.
 
 ## Weitere telefonische Auskünfte
 - Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags (KontoService mobil)
+- Nummer `0310` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ferngespräche
+- Nummer `0311` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ortsgespräche
 
 Quellen:
 - https://www.telekom.de/hilfe/vertrag-meine-daten/prepaid/prepaid-guthaben/guthaben-abfragen
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/kurzwahlen-sonderdienste
+- https://www.telekom.de/hilfe/auftrag-erste-schritte/wechsel-zur-telekom/kuendigung-preselection
 
 ## Tarife
 ### Privatkunden
