@@ -86,9 +86,18 @@ Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine 
 For Coverage maps please refer to: [mendel5/internet-access#coverage-maps](https://github.com/mendel5/internet-access#coverage-maps)
 
 ## Kundencenter
-Prozess zur Einbindung einer Mobilfunknummer in das Telekom-Kundencenter:
+Prozess zur Einbindung einer Mobilfunk-Kundennummer in das Telekom-Kundencenter:
 - Faktor 1: Eingabe eines Bestätigungscodes, der per SMS oder E-Mail zugeschickt wird
 - Faktor 2: Eingabe der PUK, die auf dem Brief mit der SIM-Karte steht (erhält man bei Vertragsbeginn)
+
+Prozess zur Einbindung einer Festnetz-Kundennummer in das Telekom-Kundencenter:
+- ?? (TODO)
+
+Das Telekom-Kundencenter erlaubt lediglich die Verknüpfung von einer Mobilfunk-Kundennummer mit einer Festnetz-Kundennummer in der Rolle `Vertragsinhaber`. Weitere Verträge können nur über die Rolle `Nutzer` hinzugefügt werden.
+
+Quellen:
+- https://www.telekom.de/hilfe/kundencenter/kundencenter-mobilfunk-erweiterten-service-nutzen
+- https://www.telekom.de/hilfe/vertrag-meine-daten/login-daten-passwoerter/master-nutzer
 
 ## PIN und PUK
 PIN steht für `Personal Identification Number`. PUK steht für `Personal Unlocking Key`. Die PUK kann u.a. telefonisch erfragt werden. Siehe die Rufnummer vom Kundenservice Mobilfunk oben. Für die telefonische Abfrage der PUK fallen einmalige Kosten in Höhe von 14,95 Euro an (Stand: 2021-09).
@@ -109,7 +118,7 @@ SIM-Karten-Größen allgemein (FF steht für Form Factor):
 - Micro-SIM: 15 * 12 mm (3FF)
 - Nano-SIM: 12,8 * 8,8 mm (4FF)
 
-Sources:
+Quellen:
 - https://www.telekom.de/unterwegs/triple-sim
 - https://en.wikipedia.org/wiki/SIM_card#Formats
 
