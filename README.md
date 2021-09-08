@@ -21,15 +21,20 @@ Note: The content is focused on Germany.
 ## Weitere telefonische Auskünfte
 Mobilfunk
 - Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags (KontoService mobil)
+- Nummer `4387` aus dem Mobilfunknetz: Netzabfrage der SIM-Karte
 
 Festnetz
-- Nummer `0310` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ferngespräche
-- Nummer `0311` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ortsgespräche
+- Nummer `0310` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ferngespräche (Netzabfrage)
+- Nummer `0311` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ortsgespräche (Netzabfrage)
 
 Quellen:
 - https://www.telekom.de/hilfe/vertrag-meine-daten/prepaid/prepaid-guthaben/guthaben-abfragen
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/kurzwahlen-sonderdienste
 - https://www.telekom.de/hilfe/auftrag-erste-schritte/wechsel-zur-telekom/kuendigung-preselection
+- https://de.wikipedia.org/wiki/Netzabfrage
+- https://netz-abfrage.de
+- https://praxistipps.chip.de/handynummer-provider-herausfinden_1417
+- https://telekomhilft.telekom.de/t5/Telefonie-Daten/wie-erkenne-ich-TELEKOM-Mobilfunknummer/td-p/2892159
 
 ## Tarife
 ### Privatkunden
