@@ -47,6 +47,8 @@ Quellen:
 - https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl Festnetz-Tarife
 - https://www.telekom.de/magenta-eins/vorteile Magenta Eins (Festnetz- und Mobilfunk-Kombi-Vorteil)
 - https://www.telekom.de/magenta-eins/magenta-eins-unlimited Magenta Eins Unlimited (Kombinierter Vertrag aus Festnetz und Mobilfunk)
+- https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-internet-festnetz#magenta-tv-preis-tabellen MagentaTV mit Internet, Festnetz, Fernsehen
+- https://www.telekom.de/zuhause/geraete-und-zubehoer/media-receiver TV und Media Receiver (Geräte)
 
 Die Sparte `Festnetz` wird von der Telekom als `Zuhause` bezeichnet; die Sparte `Mobilfunk` als `Unterwegs`.
 Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine SIM mit derselben Nummer wird `Multi-SIM` genannt (Klon einer Haupt-SIM).
