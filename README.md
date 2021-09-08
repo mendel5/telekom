@@ -19,7 +19,10 @@ Note: The content is focused on Germany.
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt/telefon
 
 ## Weitere telefonische Auskünfte
+Mobilfunk
 - Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags (KontoService mobil)
+
+Festnetz
 - Nummer `0310` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ferngespräche
 - Nummer `0311` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ortsgespräche
 
