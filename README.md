@@ -133,3 +133,6 @@ Andere Bezeichnungen: SMS Mitteilungszentrale, SMS-Zentrale, Dienstzentrale
 Kundennummern können bei der Telekom nicht gelöscht werden. Auch wenn nach einer Vertragsübernahme die Kundennummer des abgebenden Kunden nur noch als "leere Hülle" existiert, d.h. auf diesem Kundenkonto laufen keine aktiven Verträge mehr, kann die Kundennummer nicht gelöscht werden. Das liegt vermutlich an gesetzlichen Vorgaben im Rahmen von Know-Your-Customer (KYC).
 
 Es ist lediglich möglich, die Verknüpfung zwischen einer Festnetz-Kundennummer und einer Mobilfunk-Kundennummer im Kundencenter aufzuheben. Dadurch verschwindet die "leere" Kundennummer im digitalen Nirvana der Deutschen Telekom. Nach der Aufhebung der Verknüpfung kann die "leere" Kundennummer nicht wieder hinzufgefügt werden, da kein Vertrag besteht, über den den die Kundennummer bzw. Telefonnummer ausgewählt werden könnte.
+
+## TV-Receiver
+- https://www.teltarif.de/internet/tv-receiver/anbieter.html
