@@ -22,6 +22,7 @@ Note: The content is focused on Germany.
 Mobilfunk
 - Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags (KontoService mobil)
 - Nummer `4387` aus dem Mobilfunknetz: Netzabfrage der SIM-Karte (geht auch per SMS)
+- Nummer `3311` aus dem Mobilfunknetz: Mobilbox / Mailbox / Anrufbeantworter
 
 Festnetz
 - Nummer `0310` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ferngespräche (Netzabfrage)
@@ -38,6 +39,8 @@ Quellen:
 - https://www.teltarif.de/vergleich-mnp-qualitaet-versagen/news/79715.html
 - https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobiles-internet-e-mail/hotspot/konfiguration-nutzen-sicherheit/sms-befehle-zur-nutzung-von-hotspot-mit-mobilfunk-zugangsdaten
 - https://www.prepaid-wiki.de/tarife/Telekom#Servicefunktionen
+- https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobilbox/klassische-mobilbox/mobilbox-aktivieren-oder-deaktivieren
+- https://telekomhilft.telekom.de/t5/Vertrag-Rechnung/3311-Diese-Rufnummer-ist-uns-nicht-bekannt/td-p/1299009
 
 ## Tarife
 ### Privatkunden
