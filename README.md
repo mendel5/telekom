@@ -8,13 +8,19 @@ Note: The content is focused on Germany.
 
 ## Hotlines
 ### Privatkunden
-- https://www.telekom.de/kontakt
 - Bestellung: 0800 3303 000
 - Kundenservice Festnetz: 0800 3301 000
 - Kundenservice Mobilfunk: 0800 3302 202
 - Kundenservice MagentaEins Unlimited: 0800 3300 411
 
+Quellen:
+- https://www.telekom.de/kontakt
+
 ### Geschäftskunden
+- Mobilfunk: 0800 33 02828
+- Festnetz: 0800 33 01300
+
+Quellen:
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt/telefon
 
@@ -62,6 +68,14 @@ Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine 
 - https://geschaeftskunden.telekom.de/mobilfunk/magentaeins-business-unlimited
 
 ## Einstellungen
+Mobilfunk Komfortdienste
+- Entgangene Anrufe per SMS*: Sie erhalten eine SMS mit der Rufnummer des Anrufers.
+- Anruferinnerung per SMS*: Der Anrufer bekommt eine SMS, wenn Sie wieder erreichbar sind.
+- Rückrufbitte per SMS*: Auf Wunsch des Anrufers erhalten Sie eine SMS mit der Bitte um Rückruf.
+- Rückruf bei Besetzt: Sie bekommen eine SMS, wenn die angerufene Person wieder erreichbar ist.
+- *) Voraussetzung für die Nutzung dieser Komfortdienste ist, dass Sie keine Rufumleitung zur Mobilbox oder einem anderen Anschluss eingerichtet haben.
+
+Quellen:
 - Übersicht Komfortdienste Mobilfunknetz: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/komfortdienste/beschreibung
 - Mobilbox aktivieren / deaktivieren: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobilbox/klassische-mobilbox/mobilbox-aktivieren-oder-deaktivieren
 - Steuercodes Mobilfunk: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/steuercodes
@@ -96,7 +110,8 @@ Prozess zur Einbindung einer Mobilfunk-Kundennummer in das Telekom-Kundencenter:
 - Faktor 2: Eingabe der PUK, die auf dem Brief mit der SIM-Karte steht (erhält man bei Vertragsbeginn)
 
 Prozess zur Einbindung einer Festnetz-Kundennummer in das Telekom-Kundencenter:
-- ?? (TODO)
+- Faktor 1: Zugangsnummer
+- Faktor 2: Persönliches Kennwort
 
 Das Telekom-Kundencenter erlaubt lediglich die Verknüpfung von einer Mobilfunk-Kundennummer mit einer Festnetz-Kundennummer in der Rolle `Vertragsinhaber`. Weitere Verträge können nur über die Rolle `Nutzer` hinzugefügt werden.
 
