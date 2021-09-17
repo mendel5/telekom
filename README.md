@@ -20,7 +20,7 @@ Note: The content is focused on Germany.
 
 ## Weitere telefonische Auskünfte
 Mobilfunk
-- Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags (KontoService mobil)
+- Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags abfragen (KontoService mobil)
 - Nummer `4387` aus dem Mobilfunknetz: Netzabfrage der SIM-Karte (geht auch per SMS)
 - Nummer `3311` aus dem Mobilfunknetz: Mobilbox / Mailbox / Anrufbeantworter
 
