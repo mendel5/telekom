@@ -154,3 +154,7 @@ Es ist lediglich möglich, die Verknüpfung zwischen einer Festnetz-Kundennummer
 
 ## TV-Receiver
 - https://www.teltarif.de/internet/tv-receiver/anbieter.html
+
+## Mobilfunk: Mehr Datenvolumen
+- https://www.telekom.de/hilfe/vertrag-meine-daten/tarife-optionen/datenvolumen-erhoehen
+- https://www.telekom.de/unterwegs/tarife-und-optionen/dayflat-unlimited
