@@ -67,8 +67,7 @@ Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine 
 - https://geschaeftskunden.telekom.de/internet-dsl/tarife/festnetz-internet-dsl
 - https://geschaeftskunden.telekom.de/mobilfunk/magentaeins-business-unlimited
 
-## Einstellungen
-Mobilfunk Komfortdienste
+## Mobilfunk Komfortdienste
 - Entgangene Anrufe per SMS*: Sie erhalten eine SMS mit der Rufnummer des Anrufers.
 - Anruferinnerung per SMS*: Der Anrufer bekommt eine SMS, wenn Sie wieder erreichbar sind.
 - Rückrufbitte per SMS*: Auf Wunsch des Anrufers erhalten Sie eine SMS mit der Bitte um Rückruf.
@@ -78,6 +77,8 @@ Mobilfunk Komfortdienste
 Quellen:
 - Übersicht Komfortdienste Mobilfunknetz: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/komfortdienste/beschreibung
 - Mobilbox aktivieren / deaktivieren: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobilbox/klassische-mobilbox/mobilbox-aktivieren-oder-deaktivieren
+
+## Steuercodes
 - Steuercodes Mobilfunk: https://www.telekom.de/hilfe/mobilfunk-mobiles-internet/mobil-telefonieren-sms-mms/steuercodes
 - Steuercodes Festnetz: https://www.telekom.de/hilfe/festnetz-internet-tv/ip-basierter-anschluss/leistungsmerkmale-mit-telefontasten-steuern
 
