@@ -158,3 +158,6 @@ Es ist lediglich möglich, die Verknüpfung zwischen einer Festnetz-Kundennummer
 ## Mobilfunk: Mehr Datenvolumen
 - https://www.telekom.de/hilfe/vertrag-meine-daten/tarife-optionen/datenvolumen-erhoehen
 - https://www.telekom.de/unterwegs/tarife-und-optionen/dayflat-unlimited
+
+## Mobilfunk-Tarif wechseln
+- https://www.telekom.de/hilfe/vertrag-meine-daten/tarife-optionen/wechsel-mobilfunk-tarif
