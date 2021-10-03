@@ -17,22 +17,22 @@ Quellen:
 - https://www.telekom.de/kontakt
 
 ### Geschäftskunden
-- Mobilfunk: 0800 33 02828
 - Festnetz: 0800 33 01300
+- Mobilfunk: 0800 33 02828
 
 Quellen:
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt/telefon
 
 ## Weitere telefonische Auskünfte
+Festnetz
+- Nummer `0310` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ferngespräche (Netzabfrage)
+- Nummer `0311` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ortsgespräche (Netzabfrage)
+
 Mobilfunk
 - Nummer `2000` aus dem Mobilfunknetz: Guthaben der Prepaid-Karte oder Zusatzkosten des Vertrags abfragen (KontoService mobil)
 - Nummer `4387` aus dem Mobilfunknetz: Netzabfrage der SIM-Karte (geht auch per SMS)
 - Nummer `3311` aus dem Mobilfunknetz: Mobilbox / Mailbox / Anrufbeantworter
-
-Festnetz
-- Nummer `0310` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ferngespräche (Netzabfrage)
-- Nummer `0311` aus dem Festnetz: Prüfung des Pre-Selection-Anbieters für Festnetz-Ortsgespräche (Netzabfrage)
 
 Quellen:
 - https://www.telekom.de/hilfe/vertrag-meine-daten/prepaid/prepaid-guthaben/guthaben-abfragen
@@ -50,10 +50,10 @@ Quellen:
 
 ## Tarife
 ### Privatkunden
+- https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl Festnetz-Tarife
 - https://www.telekom.de/mobilfunk/tarife/smartphone-tarife Mobilfunk-Haupttarife (MagentaMobil, Postpaid)
 - https://www.telekom.de/mobilfunk/tarife/zweitkarten Mobilfunk-Zweitkarten (Family Card, Postpaid)
 - https://www.telekom.de/unterwegs/tarife-und-optionen/prepaid-tarife Mobilfunk-Prepaidtarife (MagentaMobil)
-- https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl Festnetz-Tarife
 - https://www.telekom.de/magenta-eins/vorteile Magenta Eins (Festnetz- und Mobilfunk-Kombi-Vorteil)
 - https://www.telekom.de/magenta-eins/magenta-eins-unlimited Magenta Eins Unlimited (Kombinierter Vertrag aus Festnetz und Mobilfunk)
 - https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-internet-festnetz#magenta-tv-preis-tabellen MagentaTV mit Internet, Festnetz, Fernsehen
@@ -63,8 +63,8 @@ Die Sparte `Festnetz` wird von der Telekom als `Zuhause` bezeichnet; die Sparte 
 Der Begriff `Zweitkarte` wird Synonym zum Begriff `Family Card` verwendet. Eine SIM mit derselben Nummer wird `Multi-SIM` genannt (Klon einer Haupt-SIM).
 
 ### Geschäftskunden
-- https://geschaeftskunden.telekom.de/mobilfunk/tarife/handytarife
 - https://geschaeftskunden.telekom.de/internet-dsl/tarife/festnetz-internet-dsl
+- https://geschaeftskunden.telekom.de/mobilfunk/tarife/handytarife
 - https://geschaeftskunden.telekom.de/mobilfunk/magentaeins-business-unlimited
 
 ## Mobilfunk Komfortdienste
