@@ -8,17 +8,17 @@ Note: The content is focused on Germany.
 
 ## Hotlines
 ### Privatkunden
-- Bestellung: 0800 3303 000
-- Kundenservice Festnetz: 0800 3301 000
-- Kundenservice Mobilfunk: 0800 3302 202
-- Kundenservice MagentaEins Unlimited: 0800 3300 411
+- Bestellung: `0800 3303 000`
+- Kundenservice Festnetz: `0800 3301 000`
+- Kundenservice Mobilfunk: `0800 3302 202`
+- Kundenservice MagentaEins Unlimited: `0800 3300 411`
 
 Quellen:
 - https://www.telekom.de/kontakt
 
 ### Geschäftskunden
-- Festnetz: 0800 3301 300
-- Mobilfunk: 0800 3302 828
+- Festnetz: `0800 3301 300`
+- Mobilfunk: `0800 3302 828`
 
 Quellen:
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt
