@@ -17,8 +17,8 @@ Quellen:
 - https://www.telekom.de/kontakt
 
 ### Geschäftskunden
-- Festnetz: 0800 33 01300
-- Mobilfunk: 0800 33 02828
+- Festnetz: 0800 3301 300
+- Mobilfunk: 0800 3302 828
 
 Quellen:
 - https://geschaeftskunden.telekom.de/hilfe-und-service/kontakt
