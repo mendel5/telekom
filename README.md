@@ -162,3 +162,20 @@ Es ist lediglich möglich, die Verknüpfung zwischen einer Festnetz-Kundennummer
 
 ## Mobilfunk-Tarif wechseln
 - https://www.telekom.de/hilfe/vertrag-meine-daten/tarife-optionen/wechsel-mobilfunk-tarif
+
+## Kundencenter
+### Privatkunden
+Für Privatkunden gibt es nur ein einziges Kundencenter. In diesem Kundencenter können sowohl für Festnetz- als auch für Mobilfunkverträge die Rechnungen eingesehen und die Tarife verwaltet werden.
+
+Links:
+- https://www.telekom.de/kundencenter/startseite
+
+### Geschäftskunden
+Für  Geschäftskunden gibt es mehrere Kundencenter.
+
+- https://geschaeftskunden.telekom.de/hilfe-und-service/self-services/online-kundencenter Übersicht der Kundencenter
+- https://kundencenter.telekom.de/kundencenter Festnetz Kundencenter: Verwaltung und Rechnungen
+- https://kundencenter.telekom.de/kundencenter/gk/ Festnetz Kundencenter 2?
+- https://rechnungonline.geschaeftskunden.telekom.de Mobilfunk RechnungOnline für Geschäftskunden
+- https://bsp.t-mobile.de Mobilfunk Business Service Portal (BSP) zur Verwaltung und Änderungen von Tarifen
+
