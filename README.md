@@ -1,5 +1,5 @@
 # telekom
-Useful information about the Telekom Deutschland (Telekom Germany). Telekom Deutschland is a subsidiary of Deutsche Telekom AG.
+Useful information about Telekom Deutschland (Telekom Germany). Telekom Deutschland is a subsidiary of Deutsche Telekom AG, see https://en.wikipedia.org/wiki/Deutsche_Telekom .
 
 Note: The content is focused on Germany.
 
