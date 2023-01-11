@@ -8,6 +8,7 @@ Note: The content is focused on Germany.
 
 ## Siehe auch
 - https://github.com/mendel5/internet-access
+- https://github.com/mendel5/glasfaser
 
 ## Hotlines
 ### Privatkunden
