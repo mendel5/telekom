@@ -6,6 +6,9 @@ Note: The content is focused on Germany.
 ## Allgemein
 - https://www.telekom.de
 
+## Siehe auch
+- https://github.com/mendel5/internet-access
+
 ## Hotlines
 ### Privatkunden
 - Bestellung: `0800 3303 000`
