@@ -179,3 +179,6 @@ Für  Geschäftskunden gibt es mehrere Kundencenter.
 - https://kundencenter.telekom.de/kundencenter/gk/ Festnetz Kundencenter 2?
 - https://bsp.t-mobile.de Mobilfunk Business Service Portal (BSP) zur Verwaltung und Änderungen von Tarifen
 - https://rechnungonline.geschaeftskunden.telekom.de Mobilfunk Rechnungen Online einsehen für Geschäftskunden
+
+## Anschlussinformation und Leitungs-ID
+- https://www.anschlussinfo.de/
