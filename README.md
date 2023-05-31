@@ -3,12 +3,12 @@ Useful information about Telekom Deutschland (Telekom Germany). Telekom Deutschl
 
 Note: The content is focused on Germany.
 
-## Allgemein
-- https://www.telekom.de
-
 ## Siehe auch
 - https://github.com/mendel5/internet-access
 - https://github.com/mendel5/glasfaser
+
+## Allgemein
+- https://www.telekom.de
 
 ## Hotlines
 ### Privatkunden
