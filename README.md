@@ -3,7 +3,7 @@ Useful information about Telekom Deutschland (Telekom Germany). Telekom Deutschl
 
 Note: The content is focused on Germany.
 
-## Siehe auch
+See also / Siehe auch:
 - https://github.com/mendel5/internet-access
 - https://github.com/mendel5/glasfaser
 
