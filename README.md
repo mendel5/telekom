@@ -182,3 +182,10 @@ Für  Geschäftskunden gibt es mehrere Kundencenter.
 
 ## Anschlussinformation und Leitungs-ID
 - https://www.anschlussinfo.de/
+
+## Telekom Kundencenter Vertragsinhaber Nutzer
+- Vertragsinhaber-Login im Kundencenter https://telekomhilft.telekom.de/conversations/sonstiges/vertragsinhaber-login-im-kundencenter/668867244ae73561dae22159
+- Der `Vertragsinhaber` hieß ehemals `Masternutzer`.
+- Der `Nutzer` hat weniger Rechte als der `Vertragsinhaber`.
+- https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/meine-daten/vertragsinhaber
+- https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/berechtigung
