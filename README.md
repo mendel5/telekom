@@ -189,3 +189,8 @@ Für  Geschäftskunden gibt es mehrere Kundencenter.
 - Der `Nutzer` hat weniger Rechte als der `Vertragsinhaber`.
 - https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/meine-daten/vertragsinhaber
 - https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/berechtigung
+
+## Telekom Mobilfunknummer Vorwahl
+Formatierung der Vorwahl der Mobilfunkrufnummer / Mobilfunknummer / Mobilnummer für Kündigung
+- https://www.telekom.de/shop/meine-persoenlichen-inhalte
+- Ansonsten die Mobilnummer doppelt kündigen, also mit beiden Formatierungen der Vorwahl
