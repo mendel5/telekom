@@ -194,3 +194,7 @@ Für  Geschäftskunden gibt es mehrere Kundencenter.
 Formatierung der Vorwahl der Mobilfunkrufnummer / Mobilfunknummer / Mobilnummer für Kündigung
 - https://www.telekom.de/shop/meine-persoenlichen-inhalte
 - Ansonsten die Mobilnummer doppelt kündigen, also mit beiden Formatierungen der Vorwahl
+
+## Mobilfunkvorwahlen
+Vorwahlen je Anbieter für Mobilfunk in Deutschland
+- https://www.gsmcodes-online.de/mobilfunkvorwahlen.html
